@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey, I'm Clay!
+
+I am very much a beginner to programming, but I do have a little knowledge of Java and C++, as well as general programming language concepts.  
+
+---
+modified: 2021-11-19T20:30:38.465Z
+---
+
 
 <!--
 **MirrorHall-Clay/MirrorHall-Clay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
